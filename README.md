@@ -36,7 +36,7 @@ MO2ユーザーや新作MODチェックが多い人に便利だと思います�
 
 ## お問い合わせ・要望
 
-何か要望やバグ報告があれば、IssueやDiscussionsで教えてください（日本語でOKです！）。  
+バグ報告があれば、IssueやDiscussionsで教えてください（日本語でOKです！）。  
 対応サイトの追加なども検討します。
 
 Thank you for checking this out!  
