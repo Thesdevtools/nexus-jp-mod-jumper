@@ -6,13 +6,13 @@ It adds a button on Nexus Mods pages to quickly jump to Japanese mod database si
 The full documentation and detailed guide are written in Japanese on Note.  
 If you're not targeting Japanese mod communities, this might not be useful for you.
 
-→ [詳細な使い方・解説はこちら（Note記事・日本語）](https://note.com/your_note_id/n/your_article_id)
+→ [詳細な使い方・解説はこちら（Note記事・日本語）](https://note.com/thesdevtools/n/n7873f91505f8)
 
 ---
 
 ## 簡単な概要（日本語）
 
-Nexus Modsのページに「🇯🇵 Modデータベースで見る」ボタンを追加して、日本語のMODまとめサイト（主にスカイリムMODデータベースなど）にワンクリックで飛べるブラウザ拡張機能です。
+Nexus Modsのページに「📖 Modデータベースで見る」ボタンを追加して、日本語のMODまとめサイト（主にスカイリムMODデータベースなど）にワンクリックで飛べるブラウザ拡張機能です。
 
 - Skyrim Special Edition メイン対応  
 - Fallout 4 にも一部対応  
